@@ -50,4 +50,4 @@
 
 ◦ <b>Spullen weggeven/verkopen</b> ➥ Als je gaat stoppen op de server. Is het niet toegestaan om je spullen/geld weg te geven of om spullen goedkoop te verkopen. 
 
-© 2020 ZuiderveenRP
+© 2021 ZuiderveenRP
