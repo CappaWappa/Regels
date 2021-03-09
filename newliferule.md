@@ -22,4 +22,4 @@
    - Het maken van een melding als je dood bent is verboden en zal bestraft worden.</br>
    - krijg je te maken met RDM of VDM en je hebt voldoende dashcam bewijs die kan worden getoond aan een staf-lid mag je een melding maken.
 
-© 2020 ZuiderveenRP
+© 2021 ZuiderveenRP
