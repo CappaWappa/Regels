@@ -15,4 +15,4 @@
    - Rijd de auto boven de 80 KM/PU en je springt eruit valt dit onder : No Value of Life </br>
    - onnodig voor een auto gaan staan valt onder : No Value of Life . </br>
    - onnodig van een gebouw of brug afspringen valt onder : No Value of Life  . </br>
-© 2020 ZuiderveenRP
+© 2021 ZuiderveenRP
