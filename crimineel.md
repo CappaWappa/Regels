@@ -17,7 +17,7 @@
      ➥ Het overvallen van burgers die minder dan 1 week in de stad zijn is streng verboden! <br>
      ➥ Het overvallen van burgers die in een greenzone staan mogen niet worden overvallen dit is streng verboden! <br>
      ➥ Na het overvallen van een burger mag je hem/haar niet vermoorden.<br>
-     ➥ Het overvallen van burgers is maximaal voor een bedrag van €5,000.<br>
+     ➥ Het overvallen van burgers is maximaal voor een bedrag van €1,000.<br>
      ➥ Het overvallen van dezelfde burger is niet toegestaan.<br>
      ➥ Het overvallen van burgers mag altijd! Mits je je aan de boven geschreven regels houdt!  <br>
 
