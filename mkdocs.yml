@@ -22,18 +22,10 @@ theme:
   custom_dir: docs/overrides
   language: nl
 plugins:
-  - git-revision-date-localized:
-      type: timeago
-      time_zone: Europe/Amsterdam
-      locale: nl
-      fallback_to_build_date: false
   - search:
       lang: nl
 markdown_extensions:
   - admonition
   - attr_list
   - pymdownx.highlight
-  - pymdownx.superfences  
-extra_javascript:
-  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
-  - javascripts/tables.js
+  - pymdownx.superfences
