@@ -28,3 +28,12 @@ markdown_extensions:
   - attr_list
   - pymdownx.highlight
   - pymdownx.superfences
+  nav:
+  - Hoofdpagina: algemeen.md
+  - Kaas1: content-regels.md
+  - Kaas2: crimineel.md
+  - Kaas3: hulpdiensten.md
+  - Kaas4: index.md
+  - Kaas5: newliferule.md
+  - Kaas6: valueoflife.md
+
