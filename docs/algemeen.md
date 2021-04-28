@@ -6,7 +6,7 @@ Welkom bij de ZuiderVeen Regels, hier staan alle regels die je moet weten voorda
 Buiten onze Main discord hebben we ook een aantal andere discord servers! Deze volgen hieronder.
 
 | Discord | Discord Uitnodiging |
-|---|---|:---:|
+|---|---|
 |kaas | [Invite](invite) |
 |kaas | [Invite](invite) |
 |kaas | [Invite](invite) |
