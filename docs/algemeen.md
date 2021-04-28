@@ -1,3 +1,4 @@
-# Hoofdpagina ZuiderVeen Regels
+# Hoofdpagina
+## ZuiderVeen Regelgeving
 
 © 2021 ZuiderveenRP
