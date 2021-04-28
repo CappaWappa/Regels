@@ -7,10 +7,8 @@ Buiten onze Main discord hebben we ook een aantal andere discord servers! Deze v
 
 | Discord | Discord Uitnodiging |
 |---|---|
-|kaas | [Invite](invite) |
-|kaas | [Invite](invite) |
-|kaas | [Invite](invite) |
-|kaas | [Invite](invite) |
-|kaas | [Invite](invite) |
+| ZV Main Discord | [Invite](discord.gg/ZuiderVeen) |
+| ZV Support Discord | [Invite](https://discord.gg/vGmfZEV3Ma) |
+| ZV Onderwereld Discord | [Invite](https://discord.gg/JnVYFz9FJb) |
 
 © 2021 ZuiderveenRP
