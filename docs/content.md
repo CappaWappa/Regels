@@ -1,6 +1,6 @@
 # Content
 
-##Main
+## Main
 
 ### Opnames ➥ Je mag opnames maken zonder een Streamer Rol. Als je die rol niet hebt is het niet toegestaan om reclame te maken voor je content. Deze rol kan je aanvragen via een ticket.
 
