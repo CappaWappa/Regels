@@ -1,6 +1,7 @@
 # Content
 
 <h2>Main</h1>
+#Main
 
 ◦ <b>Opnames</b> ➥ Je mag opnames maken zonder een Streamer Rol. Als je die rol niet hebt is het niet toegestaan om reclame te maken voor je content. Deze rol kan je aanvragen via een ticket.
 
@@ -9,6 +10,7 @@
 ◦ <b>Plaatsen van content</b> ➥ Het plaatsen van ''kill montages'' in de discord onder het kopje Content is verboden!</br>
 
 <h2>Kaas</h1>
+#Kaas
 
 ◦ <b>Streamsnipen</b> ➥ Streamsnipen is niet toegestaan. Hier zijn een paar voorbeelden van streamsnipen:
 - Het achtervolgen van een streamer
