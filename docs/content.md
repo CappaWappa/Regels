@@ -2,11 +2,11 @@
 
 <h2>Main</h1>
 
-◦ <b>Opnames</b> ➥ Je mag opnames maken zonder een Streamer Rol. Als je die rol niet hebt is het niet toegestaan om reclame te maken voor je content. Deze rol kan je aanvragen via een ticket.
+*Opnames ➥ Je mag opnames maken zonder een Streamer Rol. Als je die rol niet hebt is het niet toegestaan om reclame te maken voor je content. Deze rol kan je aanvragen via een ticket.
 
-◦ <b>Tonen Van Locaties</b> ➥ Het tonen van gehieme locaties is niet toegestaan. Als je dit wel doet ben je direct je Streamer rol kwijt.
+*Tonen Van Locaties ➥ Het tonen van gehieme locaties is niet toegestaan. Als je dit wel doet ben je direct je Streamer rol kwijt.
 
-◦ <b>Plaatsen van content</b> ➥ Het plaatsen van ''kill montages'' in de discord onder het kopje Content is verboden!</br>
+*Plaatsen van content ➥ Het plaatsen van ''kill montages'' in de discord onder het kopje Content is verboden!</br>
 
 <h2>Kopstuk</h1>
 
