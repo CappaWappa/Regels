@@ -9,7 +9,7 @@
 
 ◦ <b>Plaatsen van content</b> ➥ Het plaatsen van ''kill montages'' in de discord onder het kopje Content is verboden!</br>
 
-<h2>Kaas</h1>
+<h2>Kaasz</h1>
 #Kaas
 
 ◦ <b>Streamsnipen</b> ➥ Streamsnipen is niet toegestaan. Hier zijn een paar voorbeelden van streamsnipen:
