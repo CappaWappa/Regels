@@ -5,7 +5,7 @@
    - in een scenario waarin er een wapen op je wordt gericht moet je altijd luisteren doe je dit niet valt dit onder No Value of Life.</br>
    - Het zelf beindigen van je leven voor onnodige redenen is niet toegestaan! (denk hierbij aan: het niet luisteren als je wordt overvallen, het zelf springen van de dam af, uit een auto springen die hard rijdt.</br>
 
-➥ Conclusie </b>
+➥ Conclusie</b>
    - neem zo min mogelijk risico dat kan leiden tot je dood of ernstige verwondingen.</br>
 
 ➥ Enkele Scenario's waarin dit kan voortkomen.</b>
