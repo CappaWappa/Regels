@@ -16,7 +16,7 @@
 1. Het plaatsen van ''kill montages'' in de discord onder het kopje Content is verboden!</br>
 2. Test
 
-<h2>Kopstuk</h1>
+## Kopstuk</h1>
 
 ### Streamsnipen
 1. Streamsnipen is niet toegestaan. Hier zijn een paar voorbeelden van streamsnipen:
