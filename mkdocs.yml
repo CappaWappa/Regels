@@ -33,9 +33,9 @@ extra_javascript:
   - javascripts/tables.js
 nav:
   - Hoofdpagina: index.md
-  - Algemeen: newliferule.md
+  - Algemeen: algemeen.md
   - Hulpdiensten: hulpdiensten.md
-  - Bovenwereld: algemeen.md
-  - Onderwereld: crimineel.md
+  - Bovenwereld: bovenwereld.md
+  - Onderwereld: onderwereld.md
   - ValueofLife: valueoflife.md
   - Content: content.md
