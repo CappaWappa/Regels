@@ -49,5 +49,5 @@
  ➥
  ➥
 
-# Let op! niet alle regels zullen hierboven vermeld worden!
+# Let op niet alle regels zullen hierboven vermeld worden!
 © 2021 ZuiderveenRP
