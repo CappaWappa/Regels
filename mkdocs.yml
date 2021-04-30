@@ -5,7 +5,7 @@ site_author: 'ZuiderVeen'
 # Copyright
 copyright: Copyright &copy; 2021 ZuiderVeen
 
-# Congiguration
+# Configuration
 theme:
   name: material
   features:
