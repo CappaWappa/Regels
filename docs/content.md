@@ -18,12 +18,12 @@
 
 <h2>Kopstuk</h1>
 
-◦ <b>Streamsnipen</b> ➥ Streamsnipen is niet toegestaan. Hier zijn een paar voorbeelden van streamsnipen:
-- Het achtervolgen van een streamer
-- Persoon bij zijn irl naam noemen inplaats van zijn ingame naam
-- Het opzoeken van de persoon via de stream
-- In chat zijn irl naam noemen
+### Streamsnipen
+1. Streamsnipen is niet toegestaan. Hier zijn een paar voorbeelden van streamsnipen:
+2. Het achtervolgen van een streamer
+3. Persoon bij zijn irl naam noemen inplaats van zijn ingame naam
+4. Het opzoeken van de persoon via de stream
+5. In chat zijn irl naam noemen
 
-◦ <b>Copyright</b> ➥ Er mag geen copyright content te zien zijn op jouw content.
-
-© 2021 ZuiderveenRP
+### Copyright 
+1. Er mag geen copyright content te zien zijn op jouw content.
