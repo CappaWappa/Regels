@@ -1,4 +1,4 @@
-# Algemene Regels
+# Algemene regels
 ## Algemeen
 ◦ <b>VDM</b> (Vehicle Deathmatch) ➥ Het doelbewust je voertuig/luchtvaartuig/vaartuig gebruiken als wapen tegen speler/s.
 
