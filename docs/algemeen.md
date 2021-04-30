@@ -49,5 +49,3 @@
 ◦ <b>IRL geld</b> ➥ Het is in geen enkele wijze toegestaan om diensten/spullen te verkopen voor IRL geld hier staat een permanente ban op.
 
 ◦ <b>Spullen weggeven/verkopen</b> ➥ Als je gaat stoppen op de server. Is het niet toegestaan om je spullen/geld weg te geven of om spullen goedkoop te verkopen. 
-
-© 2021 ZuiderveenRP
