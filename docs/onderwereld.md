@@ -1,4 +1,4 @@
-# Criminele Circuit
+# Criminele circuit
 
 ◦ <b>Scammen</b> ➥ Het is niet toegestaan om te scammen met voertuigen, mensen te scammen die bezig zijn met een (non)whitelistedjob. Mits je wel scamt bij bovenwereld activiteiten zal hier een limiet gelden van €30.000. Als spelers onderwereld activiteiten uitvoert mag je wel gescammed worden. Denk aan drugs, locaties en wapens. Hier zit geen limiet op.
 
@@ -95,8 +95,3 @@
      ➥ maximale tijd van een gangwar is : 12 uur.<br>
      ➥ alle normale regels gelden naast de gangwar ook.<br>
      ➥ In de gangwar zijn de volgende safe-zones : Alle Garages, Ziekenhuis, Anwb Hoofdkantoor, het campen van deze plekken is ook niet toegestaan.<br>
-
-
-
-
-© 2021 ZuiderveenRP
