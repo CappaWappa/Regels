@@ -9,7 +9,7 @@ copyright: Copyright &copy; 2021 ZuiderVeen
 theme:
   name: material
   features:
-    # - navigation.tabs
+    # - Navigation.tabs
   palette:
     - scheme: default
       toggle:
