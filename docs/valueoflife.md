@@ -1,4 +1,4 @@
-# Value Of Life
+# Value of life
 
 ➥ Value of life inhoud </b></br>
    - een leven in zuiderveen is waardevol dus dit mag niet zomaar worden beindigt door jezelf. Dit noemen wij No Value of Life en dit is tegen de regels van zuiderveen </br>
