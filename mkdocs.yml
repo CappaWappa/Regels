@@ -32,10 +32,10 @@ extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
   - javascripts/tables.js
 nav:
-  - Hoofdpagina: algemeen.md
+  - Hoofdpagina: index.md
   - Content: content.md
   - Crimineel: crimineel.md
   - Hulpdiensten: hulpdiensten.md
-  - Iets: index.md
+  - Iets: algemeen.md
   - NewLifeRule: newliferule.md
   - ValueofLife: valueoflife.md
