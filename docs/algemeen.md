@@ -1,5 +1,5 @@
 # Algemene Regels
-
+## Algemeen
 ◦ <b>VDM</b> (Vehicle Deathmatch) ➥ Het doelbewust je voertuig/luchtvaartuig/vaartuig gebruiken als wapen tegen speler/s.
 
 ◦ <b>RDM</b> (Random Deathmatch) ➥ Het doden van een persoon zonder voorafgaande roleplay (zoals: een verkeersongeluk, iemand uitschelden en 1 x per ongeluk slaan zijn hier voorbeelden van) is niet toegestaan.
