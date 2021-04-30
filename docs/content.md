@@ -4,17 +4,14 @@
 ### Opnames 
 
 1. Je mag opnames maken zonder een Streamer Rol. Als je die rol niet hebt is het niet toegestaan om reclame te maken voor je content. Deze rol kan je aanvragen via een ticket.
-2. Test
 
 ### Tonen Van Locaties 
 
 1. Het tonen van gehieme locaties is niet toegestaan. Als je dit wel doet ben je direct je Streamer rol kwijt.
-2. Test
 
 ### Plaatsen van content 
 
 1. Het plaatsen van ''kill montages'' in de discord onder het kopje Content is verboden!</br>
-2. Test
 
 ## Kopstuk
 
