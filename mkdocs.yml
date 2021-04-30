@@ -34,7 +34,7 @@ extra_javascript:
 nav:
   - Hoofdpagina: algemeen.md
   - Content: content-regels.md
-  - Crimineel: overvallen.md
+  - Crimineel: crimineel.md
   - Hulpdiensten: hulpdiensten.md
   - Iets: index.md
   - NewLifeRule: newliferule.md
