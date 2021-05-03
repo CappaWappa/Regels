@@ -30,7 +30,7 @@
 
 ◦ <b>Crosshair</b> ➥ Het gebruik van een extern "richt puntje" is niet toegestaan. 
 
-◦ <b>Soundboard/Voicechanger</b> ➥ Het gebruik van een soundboard/voicechanger is niet toegestaan.
+◦ <b>Soundboard/Voicechanger</b> ➥ Het gebruik van een soundboard/voicechanger is niet toegestaan. Tenzij je bezig bent in de onderwereld dan is een voicechanger wel toegestaan.
 
 ◦ <b>Schelden Met ziektes</b> ➥ Het schelden met ziektes is op geen enkele wijze toegestaan.
 
