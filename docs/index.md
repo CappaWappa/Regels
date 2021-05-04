@@ -8,5 +8,5 @@ Buiten onze main discord hebben we ook een aantal andere discord servers, deze v
 | Discord | Discord Uitnodiging |
 |---|---|
 | ZV Main Discord | [Uitnodiging](https://discord.com/invite/zuiderveen) |
-| ZV Support Discord | [Uitnodiging](https://discord.gg/vGmfZEV3Ma) |
-| ZV Onderwereld Discord | [Uitnodiging](https://discord.gg/JnVYFz9FJb) |
+| ZV Support Discord | [Uitnodiging](https://discord.gg/jbX2PwAQ2a) |
+| ZV Onderwereld Discord | [Uitnodiging](https://discord.gg/kEvjrnTNdZ) |
