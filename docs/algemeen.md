@@ -8,7 +8,7 @@
    - Als je bent vermoord door een vuurwapen.</b></br>
    - Als je bent doodgestoken / geslagen.</b></br>
    - Als je geen bloed meer in je lichaam hebt.</b></br>
-   - Als je dood word verklaard door een Ambulancier, Politieagent of een stafflid.</br>
+   - Als je dood word verklaard door een ambulancier, politieagent of een stafflid.</br>
 
 ➥ Wat weet je nog wel! </b> 
    - De contacten in je telefoon.</br>
