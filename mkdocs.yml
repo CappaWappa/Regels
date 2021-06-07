@@ -1,6 +1,7 @@
 # Project information
 site_name: Regelgeving
 site_author: 'ZuiderVeen'
+use_directory_urls: 'false'
 
 # Copyright
 copyright: Copyright &copy; 2021 ZuiderVeen
