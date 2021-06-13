@@ -41,7 +41,6 @@
  ➥ Bij het maken van een melding moet je de locatie er bij vermelden anders word je melding niet opgenomen. </br>
  ➥ Het vdmen tegen een auto van de ANWB staat een boete op van 1500 euro, ook als je je niet gedraagd op het Hoofdbureau zal deze worden uitgeschreven.</br>
  ➥ Het afsluiten van abbonementen kan uitsluitend bij hoofd-monteur of hoger.</br>
- ➥ 
 
 # Regels Taxi
  ➥ Taxi mag personen weigeren als er een dreiging vormt of is voor de chauffeur van de taxi.</br>
