@@ -8,6 +8,11 @@
 
 ◦ <b>Karakter Breken</b> ➥ Het ooc gaan in een roleplay situatie is niet toegestaan. Als iemand dit doet probeer het scenario zo goed mogelijk te eindigen. Je moet ten alle tijden de roleplay afmaken
 
+◦ <b>Praten terwijl je dood bent</b> ➥ Je mag niet meer praten:
+- Als je bent vermoord door een vuurwapen.
+- Als je bent doodgestoken / geslagen.
+- Als je geen bloed meer in je lichaam hebt.
+
 ◦ <b>Combat Loggen</b> ➥ Het verlaten van de server tijdens een scenario is niet toegestaan. Bedenk voordat je een scenario begint of je genoeg tijd hebt. Ook het uitloggen terwijl je dood is niet toegestaan.
 
 ◦ <b>Combat Storing</b> ➥ Bijvoorbeeld je auto in de garage zetten en/of vervolgens een ander voertuig uit je garage pakken of het niet meewerken bij een huiszoeking.
@@ -22,7 +27,7 @@
 
 ◦ <b>Powergamen</b> ➥ Een binnen de game verkregen functie misbruiken en daar jou voordeel uithalen.
 
-◦ <b>Bugs</b> ➥ Het misbruiken van bugs en niet melden is niet toegestaan. Hier staat een <b>permanente</b> ban op staan.
+◦ <b>Bugs</b> ➥ Het misbruiken van bugs en het niet melden hiervan is niet toegestaan. Hierop staat een ban van minimaal een maand.
 
 ◦ <b>Cheats</b> ➥ Het gebruik van hack/mods is niet toegestaan. Hier staat een <b>permanente</b> ban op.
 
@@ -30,7 +35,7 @@
 
 ◦ <b>Crosshair</b> ➥ Het gebruik van een extern "richt puntje" is niet toegestaan. 
 
-◦ <b>Soundboard/Voicechanger</b> ➥ Het gebruik van een soundboard/voicechanger is niet toegestaan. Tenzij je bezig bent in de onderwereld dan is een voicechanger wel toegestaan.
+◦ <b>Soundboard/Voicechanger</b> ➥ Het gebruik van een soundboard/voicechanger is niet toegestaan, tenzij je in de onderwereld een van de volgende scenario’s hebt: Drugsdeal, wapendeals, rippen, overvallen. Let er wel op dat het alleen gebruikt mag worden om je stem zwaarder/lichter te maken. Gemaskerde politie-eenheden mogen gebruik maken van een voicechanger.
 
 ◦ <b>Schelden Met ziektes</b> ➥ Het schelden met ziektes is op geen enkele wijze toegestaan.
 
@@ -44,10 +49,16 @@
 
 ◦ <b>Refunds</b> ➥ Voorwerpen worden niet gerefund zonder daadwerkelijk bewijs via een clip systeem zoals medal. Maak hiervoor een ticket aan. Screenshots zijn niet toegestaan.
 
-◦ <b>Green zones</b> ➥ In een green zone mag je niemand vermoorden/overvallen / Criminele activiteiten uitvoeren. Op de volgende locaties zijn greenzone: Politiebureau, ziekenhuis, Anwb Hq, Cardealer, Blokkenpark, Gemeentehuis en Casino.
+Je krijgt <b>geen</b> refund wanneer:
+- Je refund minder dan 10k waard is.
+- Er minder dan 50 items uit je kofferbak is gestolen.
 
 ◦ <b>IRL geld</b> ➥ Het is in geen enkele wijze toegestaan om diensten/spullen te verkopen voor IRL geld hier staat een permanente ban op.
 
 ◦ <b>Spullen weggeven/verkopen</b> ➥ Als je gaat stoppen op de server. Is het niet toegestaan om je spullen/geld weg te geven of om spullen goedkoop te verkopen. 
 
 ◦ <b>Startersgeld weggeven</b> ➥ Het is niet toegestaan om je startersgeld weg te geven. 
+
+◦ <b>Stelen uit kofferbakken</b> ➥ Je mag maximaal 50 items uit de kofferbak halen.
+
+◦ <b>Auto’s stelen<b> ➥ Het is alleen toegestaan om iemand zijn auto te stelen wanneer hier ook duidelijk een RP aan verbonden is. Zodra je iemand zijn auto zonder RP steelt valt dit onder FailRP en zal je de benodigde consequentie ontvangen.
