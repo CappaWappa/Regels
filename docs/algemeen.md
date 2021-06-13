@@ -1,10 +1,10 @@
 # New Life Rule
-➥ Werking van de New Life Rule is als volgt:
+➥ Wanneer de New Life Rule in zijn werking gaat, moet je rekening houden met de volgende dingen:
    - Je vergeet alles wat je hebt gezien in dit ''leven''</br>
    - Je mag niet meer deelnemen aan het scenario waarin je bent gestorven.</br>
    - Je veranderd je naam van je personage (/register).</br>
 
-➥ Wanneer treedt de New Life Rule in </b>
+➥  De New life rule gaat in werking…
    - Als je bent vermoord door een vuurwapen.</b></br>
    - Als je bent doodgestoken / geslagen.</b></br>
    - Als je geen bloed meer in je lichaam hebt.</b></br>
