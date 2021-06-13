@@ -11,13 +11,11 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
 
 ◦ <b>Ontvoeren</b> <br>
      ➥ Het ontvoeren van burgers is toegestaan zolang er een goeie RP, Of gedachte achter zit die kan worden uitgelegd door middel van een clip. <br>
-     ➥ Het ontvoeren van burgers mag niet als degene op dat moment op een greenzone staat!  Is deze hierheen gevlucht en dit staat op je clip mag je dit wel doen!<br>
      ➥ Voor het ontvoeren van burgers moet er minimaal 2 politie online zijn.<br>
 
 
 ◦ <b>Overvallen van burgers</b> <br>
      ➥ Het overvallen van iemand die een NON whitelisted job uitvoert is streng verboden (Kan je zien aan de Outfit!)<br> 
-     ➥ Het overvallen van burgers in openbare plekken is niet toegestaan! (BPG appartementen,ziekhuis,PolitieBureau,BPG). <br>
      ➥ Het overvallen van burgers die minder dan 1 week in de stad zijn is streng verboden! <br>
      ➥ Het overvallen van burgers die in een greenzone staan mogen niet worden overvallen dit is streng verboden! <br>
      ➥ Na het overvallen van een burger mag je hem/haar niet vermoorden.<br>
