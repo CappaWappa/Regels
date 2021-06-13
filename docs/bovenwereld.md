@@ -61,4 +61,4 @@ Je krijgt <b>geen</b> refund wanneer:<br>
 
 ◦ <b>Stelen uit kofferbakken</b> ➥ Je mag maximaal 50 items uit de kofferbak halen.
 
-◦ <b>Auto’s stelen<b> ➥ Het is alleen toegestaan om iemand zijn auto te stelen wanneer hier ook duidelijk een RP aan verbonden is. Zodra je iemand zijn auto zonder RP steelt valt dit onder FailRP en zal je de benodigde consequentie ontvangen.
+◦ <b>Auto’s stelen</b> ➥ Het is alleen toegestaan om iemand zijn auto te stelen wanneer hier ook duidelijk een RP aan verbonden is. Zodra je iemand zijn auto zonder RP steelt valt dit onder FailRP en zal je de benodigde consequentie ontvangen.
