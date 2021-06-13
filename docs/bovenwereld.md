@@ -8,10 +8,10 @@
 
 ◦ <b>Karakter Breken</b> ➥ Het ooc gaan in een roleplay situatie is niet toegestaan. Als iemand dit doet probeer het scenario zo goed mogelijk te eindigen. Je moet ten alle tijden de roleplay afmaken
 
-◦ <b>Praten terwijl je dood bent</b> ➥ Je mag niet meer praten:
-- Als je bent vermoord door een vuurwapen.
-- Als je bent doodgestoken / geslagen.
-- Als je geen bloed meer in je lichaam hebt.
+◦ <b>Praten terwijl je dood bent</b> ➥ Je mag niet meer praten:<br>
+- Als je bent vermoord door een vuurwapen.<br>
+- Als je bent doodgestoken / geslagen.<br>
+- Als je geen bloed meer in je lichaam hebt.<br>
 
 ◦ <b>Combat Loggen</b> ➥ Het verlaten van de server tijdens een scenario is niet toegestaan. Bedenk voordat je een scenario begint of je genoeg tijd hebt. Ook het uitloggen terwijl je dood is niet toegestaan.
 
@@ -49,9 +49,9 @@
 
 ◦ <b>Refunds</b> ➥ Voorwerpen worden niet gerefund zonder daadwerkelijk bewijs via een clip systeem zoals medal. Maak hiervoor een ticket aan. Screenshots zijn niet toegestaan.
 
-Je krijgt <b>geen</b> refund wanneer:
-- Je refund minder dan 10k waard is.
-- Er minder dan 50 items uit je kofferbak is gestolen.
+Je krijgt <b>geen</b> refund wanneer:<br>
+- Je refund minder dan 10k waard is.<br>
+- Er minder dan 50 items uit je kofferbak is gestolen.<br>
 
 ◦ <b>IRL geld</b> ➥ Het is in geen enkele wijze toegestaan om diensten/spullen te verkopen voor IRL geld hier staat een permanente ban op.
 
