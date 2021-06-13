@@ -13,7 +13,7 @@
 - Als je bent doodgestoken / geslagen.<br>
 - Als je geen bloed meer in je lichaam hebt.<br>
 
-◦ <b>Combat Loggen</b> ➥ Het verlaten van de server tijdens een scenario is niet toegestaan. Bedenk voordat je een scenario begint of je genoeg tijd hebt. Ook het uitloggen terwijl je dood is niet toegestaan.
+◦ <b>Combat Loggen</b> ➥ Het verlaten van de server tijdens een scenario is niet toegestaan. Bedenk voordat je een scenario begint of je genoeg tijd hebt. Ook het uitloggen terwijl je dood bent is niet toegestaan.
 
 ◦ <b>Combat Storing</b> ➥ Bijvoorbeeld je auto in de garage zetten en/of vervolgens een ander voertuig uit je garage pakken of het niet meewerken bij een huiszoeking.
 
