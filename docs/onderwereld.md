@@ -1,6 +1,10 @@
 # Criminele circuit
 
-◦ <b>Scammen</b> ➥ Het is niet toegestaan om te scammen met voertuigen, mensen te scammen die bezig zijn met een (non)whitelistedjob. Mits je wel scamt bij bovenwereld activiteiten zal hier een limiet gelden van €30.000. Als spelers onderwereld activiteiten uitvoert mag je wel gescammed worden. Denk aan drugs, locaties en wapens. Hier zit geen limiet op.
+◦ <b>Scammen</b> ➥ Het is niet toegestaan om te scammen met voertuigen of mensen te scammen die bezig zijn met een (non)whitelisted job. Mits je wel scamt bij bovenwereld activiteiten zal hier een limiet gelden van €30.000. Als je onderwereld activiteiten uitvoert mag je wel gescammed worden. Denk aan drugs, locaties en wapens. Hier zit geen limiet op.
+
+Het opwachten en scammen van nieuwe spelers bij de spawn is ten strengste verboden, word dit wel gedaan zal er een ban van 1 week opstaan met een karakter reset.
+
+Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe spelers. Dit betekend dat deze spelers gescammed/geripped mogen worden als zij zelf bepalen de onderwereld in te duiken.
 
 ◦ <b>Twitter</b> ➥ Twitter is geen illegaal platform waar jij spullen mag verkopen zoals: wapens, drugs locaties en andere criminele informatie. Deze regels gelden het zelfde voor het <b>kopen</b> van criminele informatie op het platform.
 
@@ -17,9 +21,11 @@
      ➥ Het overvallen van burgers die minder dan 1 week in de stad zijn is streng verboden! <br>
      ➥ Het overvallen van burgers die in een greenzone staan mogen niet worden overvallen dit is streng verboden! <br>
      ➥ Na het overvallen van een burger mag je hem/haar niet vermoorden.<br>
+     ➥ Wanneer je iemand uitnodigt in je huis, zijn de items die erin liggen jouw verantwoordelijkheid. Deze mogen dus gestolen worden.<br>
      ➥ Het overvallen van burgers is maximaal voor een bedrag van €5,000.<br>
      ➥ Het overvallen van dezelfde burger is niet toegestaan.<br>
      ➥ Het overvallen van burgers mag altijd! Mits je je aan de boven geschreven regels houdt!  <br>
+     ➥ Het campen van een drugslocatie om vervolgens iemand te gaan overvallen is verboden.<br>
 
 ◦ <b>Let op!</b><br>
      ➥Bij het overvallen van burger zullen de spullen die zijn ingenomen door de overvaller wordt teruggegeven aan de die is overvallen! Worden er meerdere feiten            geconstateerd zullen deze worden opgeteld en leiden tot een hogere straf.<br>
@@ -27,22 +33,22 @@
 ◦ <b>Het vermoorden van burgers</b><br>
      ➥ Het vermoorden van burgers mag, mits er wordt voldaan aan de regels van het overvallen van burgers.<br>
      ➥ Er moet worden voldaan aan een duidelijk RP Scenario. (beoordeeld door een staflid)<br> 
-     ➥ Het vermoorden van burgers is niet toegestaan op de volgende plekken:
-        Blokkenpark garage, Ziekenhuis, Auto Dealer, Politiebureau, ANWB HQ, Casino. <br>
-     ➥ Het vermoorden van hostages mag als het scenario escaleert anders is dit niet toegestaan.<br> 
+     ➥ Het vermoorden van hostages mag alleen op het moment dat de situatie lijkt te escaleren!<br>
 
-◦ <b>Overval op een bank,juwelier of winkel</b> <br>
-     ➥ Max overvallers bij een grote bank is 10. <br>
-     ➥ Max overvallers bij een kleine bank of winkel is 5. <br>
+◦ <b>Overval op een bank, humane labs, jacht, juwelier of winkel</b> <br>
+     ➥ Max overvallers bij een grote bank, jacht of humane labs is 10.<br>
+     ➥ Max overvallers bij een kleine bank of winkel is 5.<br>
      ➥ Max overvallers bij een Juwelier is 8. <br>
      ➥ Max hostages bij een kleine bank, juwelier of winkel is 5. <br>
-     ➥ Max hostages bij een grote bank is 10.<br>
+     ➥ Max hostages bij een grote bank, jacht of humane labs is 10.<br>
      ➥ De onderhandelaar mag niet worden gegijzeld of beschoten worden in onderhandeling.<br>
      ➥ Het onnodig doodschieten van hostages mag niet! <br>
      ➥ Vrienden als hostage nemen is ten strengste verboden.<br>
      ➥ Aantal politie online voor een kleine bank en winkel is 4.<br>
-     ➥ Aantal politie online voor een grote bank is 7.<br>
      ➥ Aantal politie online voor een juwelier is 5.<br>
+     ➥ Aantal politie online voor een grote bank, jacht of humane labs is 7.<br>
+     ➥ Je mag maximaal 2 outside shooters hebben. Deze moeten er echter al vanaf het begin van het scenario bij zijn.<br>
+     ➥ Outside hostages zijn niet toegestaan.<br>
 
 ◦ <b>RolePlay tegen over de politie</b><br>
      ➥ Het schieten op politie mag in de volgende Scenario’s, Bank overval waarin de politie binnenvalt of schiet, In geval van nood (alleen waarschuwing schoten),           Als je een politie onder schot hebt en er komt back-up en het wordt gevaarlijk voor jou en je collega mag je schieten,onnodig schieten is een ban.<br> 
@@ -54,13 +60,12 @@
      ➥ Het meerdere malen op 1 dag een en dezelfde agent ontvoeren is niet toegestaan. <br>
      ➥ Het maximale agenten dat mag worden ontvoert per dag is 3. <br>
 
-◦ <b>Wanneer mag je gefouilleerd worden</b><br>
-     ➥ Als je een holster om hebt.<br>
-     ➥ Als je vlucht voor de politie.<br>
-     ➥ Preventief fouilleren mag wanner het dreigingsniveau 5 is.<br>
-     ➥ Fouilleren mag als er een schietmelding in de omgeving is.<br>
-     ➥ Fouilleren mag als ze je betrappen op illegale activiteiten.<br>
-     ➥ Je mag NIET worden gefouilleerd als je een verkeersovertreding begaat.<br>
+◦ <b>Je mag gefouilleerd worden als…</b><br>
+     ➥ je een holster om hebt.<br>
+     ➥ je vlucht voor de politie.<br>
+     ➥ wanneer het dreigingsniveau 5 is. (Preventief fouilleren)<br>
+     ➥ er een schotenmelding in de buurt is geweest.<br>
+     ➥ ze je betrappen op illegale activiteiten.<br>
 
 ◦ <b>Vuurwapenwet</b> <br>
      ➥ Word er een mes op je gericht en sta je binnen Steekafstand werk je mee kan je wegrennen mag dat wel maar heb je t risico dat je wordt gestoken! <br>
@@ -73,6 +78,7 @@
      ➥ Het pitten onder de 100 KM Per/Uur is toegestaan! Remt degene die wordt achtervolgd en de politieauto of normale auto's botst ertegenaan is dit toegestaan.<br> 
      ➥ Het pakken van een auto uit de garage in een achtervolging mag niet! Staat er ergens een vriend die je ophaalt is wel toegestaan! <br>
      ➥ Bij een Fatale klap of crash in een achtervolging blijf je in je auto zitten als er een Scenario uit voort kan komen! <br>
+     ➥ Alle auto’s/motoren die in de off-road cardealer beschikbaar zijn, zijn geschikt om off-road te gaan. Je moet wel nog als voorheen off-road gebieden betreden via de aangegeven paden. Alle auto’s die in de normale cardealer beschikbaar zijn mogen dus <b>NIET</b> off-road. De donateurs G-wagon uit de donateur cardealer en 4x4 SUV’S mogen wel off-road. <br>
 
 ◦ <b>FAIL RP scenarios/situaties</b>     <br>
      ➥ Het vluchten nadat iemand je probeert te pitten, overvallen, kidnappen naar een greenzone is ten strengste verboden! <br>
@@ -92,6 +98,10 @@
      ➥ New Life rule in de gangwar betekend dat nadat je bent doodgeschoten ook niet meer mag meedoen aan t scenario en je ook je outfit moet veranderen.<br>
      ➥ Je bent verplicht om je eigen gang outfit te dragen, de outfit moet je ook toesturen aan de rivaliserende gangs.<br>
      ➥ De aanleiding van een gangwar moet worden besproken met een Admin +.<br>
-     ➥ maximale tijd van een gangwar is : 12 uur.<br>
-     ➥ alle normale regels gelden naast de gangwar ook.<br>
-     ➥ In de gangwar zijn de volgende safe-zones : Alle Garages, Ziekenhuis, Anwb Hoofdkantoor, het campen van deze plekken is ook niet toegestaan.<br>
+     ➥ Maximale tijd van een gangwar is : 12 uur.<br>
+     ➥ Alle normale regels gelden naast de gangwar ook.<br>
+     ➥ Tijdens de gangwar zijn de volgende safe-zones : BPG, Ziekenhuis, Anwb Hoofdkantoor. het campen van deze plekken is ook niet toegestaan.<br>
+     
+◦ <b>Gang regels</b><br>
+     ➥ In een gang mogen maximaal 15 man zitten.<br>
+     ➥ Het gebruik maken van je + menu (het boeien van mensen / escorteren / fouilleren) zonder het bijdragen van een wapen is niet toegestaan en zal worden bestraft onder het kopje ''f6 abuse''. dit zal resulteren in een gang waarschuwing voor de hele gang.<br>
