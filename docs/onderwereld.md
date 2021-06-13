@@ -25,9 +25,6 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
      ➥ Het overvallen van burgers mag altijd! Mits je je aan de boven geschreven regels houdt!  <br>
      ➥ Het campen van een drugslocatie om vervolgens iemand te gaan overvallen is verboden.<br>
 
-◦ <b>Let op!</b><br>
-     ➥Bij het overvallen van burger zullen de spullen die zijn ingenomen door de overvaller wordt teruggegeven aan de die is overvallen! Worden er meerdere feiten            geconstateerd zullen deze worden opgeteld en leiden tot een hogere straf.<br>
-
 ◦ <b>Het vermoorden van burgers</b><br>
      ➥ Het vermoorden van burgers mag, mits er wordt voldaan aan de regels van het overvallen van burgers.<br>
      ➥ Er moet worden voldaan aan een duidelijk RP Scenario. (beoordeeld door een staflid)<br> 
