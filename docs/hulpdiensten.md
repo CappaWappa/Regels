@@ -7,8 +7,8 @@
  ➥ Het oproepen van collega's via discord omdat er bijvoorbeeld een overval is valt ondet "Metagamen".</br>
  ➥ Het in dienst gaan zonder de goede dienst kleding is ten strengste verboden.</br>
  ➥ Het is niet toegestaan om als hulpdienst criminele activiteiten uit te voeren, zowel in als uit dienst niet.</br>
- ➥ Het scammen van hulpdiensten is niet toegestaan.</br>
-
+ ➥ Het scammen van hulpdiensten als ze indienst zijn is niet toegestaan.</br>
+ ➥ Het ontvoeren van Ambulance, Taxi & ANWB is NIET toegestaan.<br>
 
 
 
@@ -24,16 +24,17 @@
  ➥ Het preventief fouilleren is toegestaan als er een dreigingsniveau is van 4 of hoger. </br>
  ➥ Het liegen tegen de gijzelnemers vanuit de politie is toegestaan.</br>
  ➥ Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt.</br>
- ➥ 
- ➥ 
- ➥ 
 
 # Regels Ambulance
- ➥ Het reviven van mensen die zijn doodgeschoten of neergestoken is niet toegestaan.</br>
- ➥ Het samenwerken met de onderwereld is niet toegestaan dit valt onder corruptie.</br>
- ➥ Het betaald krijgen om iemand te reviven is niet toegestaan dit valt onder corruptie.</br>
- ➥ De desbetreffende persoon niet meer aanspreekbaar is.</br> 
- ➥ De desbetreffende persoon minder dan 20% bloed heeft.</br>
+ ➥ Het is niet toegestaan om iemand te reviven als de desbetreffende persoon…</br>
+ - niet meer aanspreekbaar is<br>
+ - minder dan 20% bloed heeft<br>
+ - een hartslag onder de 20 bpm heeft<br>
+ - is neergeschoten, gestoken, geknuppeld of geslagen met een boksbeugel. Bij deze regel maakt het niet uit of ze voldoende bloed/hartslag hebben.<br>
+ - aangeeft dat diegene dood is door RDM, VDM, FailRP, bugs etc. Laat diegene een ticket maken.<br>
+ ➥ Het samenwerken met de onderwereld is niet toegestaan, dit valt onder corruptie.<br>
+ ➥ Het betaald krijgen om iemand te reviven is niet toegestaan, dit valt onder corruptie.<br>
+
 
 # Regels Anwb
  ➥ Het weigeren van mensen is toegestaan als er een dreiging word geuit of er een gevaarlijke situatie voorkomt. </br>
@@ -44,9 +45,5 @@
 
 # Regels Taxi
  ➥ Taxi mag personen weigeren als er een dreiging vormt of is voor de chauffeur van de taxi.</br>
- ➥ 
- ➥
- ➥
- ➥
 
 # Let op niet alle regels zullen hierboven vermeld worden!
