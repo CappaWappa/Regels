@@ -9,6 +9,7 @@
  ➥ Het is niet toegestaan om als hulpdienst criminele activiteiten uit te voeren, zowel in als uit dienst niet.</br>
  ➥ Het scammen van hulpdiensten als ze indienst zijn is niet toegestaan.</br>
  ➥ Het ontvoeren van Ambulance, Taxi & ANWB is NIET toegestaan.<br>
+ ➥ Het ZuiderVeen staff voertuig valt buiten de roleplay en kan niet gezien worden, spreek deze persoon ook niet aan in de auto. Deze auto word als "ontzichtbaar" gezien.<br>
 
 
 
