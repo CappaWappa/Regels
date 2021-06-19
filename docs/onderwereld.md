@@ -75,7 +75,6 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
      ➥ Alle auto’s/motoren die in de off-road cardealer beschikbaar zijn, zijn geschikt om off-road te gaan. Je moet wel nog als voorheen off-road gebieden betreden via de aangegeven paden. Alle auto’s die in de normale cardealer beschikbaar zijn mogen dus <b>NIET</b> off-road. De donateurs G-wagon uit de donateur cardealer en 4x4 SUV’S mogen wel off-road. <br>
 
 ◦ <b>FAIL RP scenarios/situaties</b>     <br>
-     ➥ Het vluchten nadat iemand je probeert te pitten, overvallen, kidnappen naar een greenzone is ten strengste verboden! <br>
      ➥  OOC praten in een scenario is ten strengste verboden <br>
      ➥  Iemand doodschieten zonder RP hierbij zal het gebruikte wapen worden ingenomen.<br>
 
