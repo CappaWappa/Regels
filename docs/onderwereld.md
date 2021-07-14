@@ -21,12 +21,12 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
     
 
 ◦ <b>Rippen</b> <br> 
-     ➥ mensen rippen mag voor een maximaal van €5.000, 
-     ➥ na het rippen van een persoon mag je deze dan ook niet vermoorden.
-     ➥ kan een persoon het niet betalen of wil die het niet betalen mag je deze met goede Roleplay vermoorden.
-     ➥ schiet je de persoon simpel direct dood na dat hij niet kan betalen zal dit bestraft worden als RDM.
-     ➥ het campen op locaties om te rippen is niet toegestaan. Wanneer je op een locatie geript hebt mag je de aankomende 30 minuten daar niet nogmaals rippen op dezelfde locatie.
-     ➥ Wanneer je met meerdere mensen gaat rippen, mag je niet dezelfde mensen rippen. Zodra iemand is overvallen laat iedereen die persoon met rust.
+     ➥ mensen rippen mag voor een maximaal van €5.000. <br> 
+     ➥ na het rippen van een persoon mag je deze dan ook niet vermoorden. <br>
+     ➥ kan een persoon het niet betalen of wil die het niet betalen mag je deze met goede Roleplay vermoorden. <br>
+     ➥ schiet je de persoon simpel direct dood na dat hij niet kan betalen zal dit bestraft worden als RDM. <br>
+     ➥ het campen op locaties om te rippen is niet toegestaan. Wanneer je op een locatie geript hebt mag je de aankomende 30 minuten daar niet nogmaals rippen op dezelfde locatie. <br>
+     ➥ Wanneer je met meerdere mensen gaat rippen, mag je niet dezelfde mensen rippen. Zodra iemand is overvallen laat iedereen die persoon met rust. <br>
     
 
 ◦ <b>Het vermoorden van burgers</b><br>
