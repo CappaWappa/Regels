@@ -13,7 +13,7 @@
 - Als je bent doodgestoken / geslagen.<br>
 - Als je geen bloed meer in je lichaam hebt.<br>
 
-◦ <b>Combat Loggen</b> ➥ Het verlaten van de server tijdens een scenario is niet toegestaan. Bedenk voordat je een scenario begint of je genoeg tijd hebt. Ook het uitloggen terwijl je dood bent is niet toegestaan.
+◦ <b>Combat Loggen</b> ➥ Het verlaten van de server tijdens een scenario is niet toegestaan. Bedenk voordat je een scenario begint of je genoeg tijd hebt. Ook het uitloggen terwijl je dood bent is niet toegestaan. als je het niet eens bent met de manier waarop je dood gegaan bent (RDM/VDM), dan moet je een ticket aanmaken en gewoon respawnen. 
 
 ◦ <b>Combat Storing</b> ➥ Bijvoorbeeld je auto in de garage zetten en/of vervolgens een ander voertuig uit je garage pakken of het niet meewerken bij een huiszoeking.
 
@@ -21,7 +21,7 @@
 
 ◦ <b>Racisme</b> ➥ Racisme om ras, huidskleur, religie etc is niet toegestaan. Het vals beschuldigen van racisme is ook niet toegestaan. 
 
-◦ <b>Vluchten Voor Politie</b> ➥ Als je vlucht voor politie moet je altijd een geldige reden hebben reden kunnen zijn: wapen, drugs of zwartgeld. Bij een staande houding mag de politie je niet zomaar fouilleren. Als je vlucht mogen ze dat natuurlijk wel doen.
+◦ <b>Vluchten Voor Politie</b> ➥ Als je vlucht voor politie moet je altijd een geldige reden hebben, redenen kunnen zijn: wapen, drugs of zwartgeld. Bij een staande houding mag de politie je niet zomaar fouilleren. Als je vlucht mogen ze dat natuurlijk wel doen.
 
 ◦ <b>Metagamen</b> ➥ Het buiten game verkregen informatie (inclusief discord) ingame gebruiken is niet toegestaan dus ook geen "bodycam" video's. 
 
@@ -31,7 +31,7 @@
 
 ◦ <b>Cheats</b> ➥ Het gebruik van hack/mods is niet toegestaan. Hier staat een <b>permanente</b> ban op.
 
-◦ <b>Alt Accounts</b> ➥ Het gebruik van alt accounts is niet toegestaan. Hier staat een <b>permanente</b> ban op staan.
+◦ <b>Alt Accounts</b> ➥ Het gebruik van alt accounts is niet toegestaan. Hier staat een <b>permanente</b> ban op.
 
 ◦ <b>Crosshair</b> ➥ Het gebruik van een extern "richt puntje" is niet toegestaan. 
 
