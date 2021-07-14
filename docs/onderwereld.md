@@ -11,7 +11,7 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
 
 ◦ <b>Ontvoeren</b> <br>
      ➥ Het ontvoeren van burgers is toegestaan zolang er een goeie RP, Of gedachte achter zit die kan worden uitgelegd door middel van een clip. <br>
-     ➥ Voor het ontvoeren van burgers moet er minimaal 2 politie online zijn.<br>
+     ➥ Voor het ontvoeren van burgers moet er minimaal 2 politie/kmar online zijn.<br>
 
 
 ◦ <b>Overvallen van burgers</b> <br>
@@ -43,9 +43,9 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
      ➥ De onderhandelaar mag niet worden gegijzeld of beschoten worden in onderhandeling.<br>
      ➥ Het onnodig doodschieten van hostages mag niet! <br>
      ➥ Vrienden als hostage nemen is ten strengste verboden.<br>
-     ➥ Aantal politie online voor een kleine bank en winkel is 4.<br>
-     ➥ Aantal politie online voor een juwelier is 5.<br>
-     ➥ Aantal politie online voor een grote bank, jacht of humane labs is 7.<br>
+     ➥ Aantal politie/kmar online voor een kleine bank en winkel is 4.<br>
+     ➥ Aantal politie/kmar online voor een juwelier is 5.<br>
+     ➥ Aantal politie/kmar online voor een grote bank, jacht of humane labs is 7.<br>
      ➥ Je mag maximaal 2 outside shooters hebben. Deze moeten er echter al vanaf het begin van het scenario bij zijn.<br>
      ➥ Outside hostages zijn niet toegestaan.<br>
 
@@ -53,15 +53,15 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
      ➥ Het schieten op politie mag in de volgende Scenario’s, Bank overval waarin de politie binnenvalt of schiet, In geval van nood (alleen waarschuwing schoten),           Als je een politie onder schot hebt en er komt back-up en het wordt gevaarlijk voor jou en je collega mag je schieten,onnodig schieten is een ban.<br> 
      ➥ Als je op een politie schiet probeer altijd eerst op de benen te schieten! Onnodig politie doodschieten is een ban <br>
 
-◦ <b>Het ontvoeren van Politie</b><br>
-     ➥ Het ontvoeren van politie mag pas als er 6 agenten in dienst zijn. <br>
-     ➥ Het losgeld vragen voor een politie agent is toegestaan het maximale bedrag van dit bedraagt 50.000 euro. <br>
+◦ <b>Het ontvoeren van Politie/kmar</b><br>
+     ➥ Het ontvoeren van politie/kmar mag pas als er 6 agenten/kmar in dienst zijn. <br>
+     ➥ Het losgeld vragen voor een politie/kmar agent is toegestaan het maximale bedrag van dit bedraagt 50.000 euro. <br>
      ➥ Het meerdere malen op 1 dag een en dezelfde agent ontvoeren is niet toegestaan. <br>
      ➥ Het maximale agenten dat mag worden ontvoert per dag is 3. <br>
 
 ◦ <b>Je mag gefouilleerd worden als…</b><br>
      ➥ je een holster om hebt.<br>
-     ➥ je vlucht voor de politie.<br>
+     ➥ je vlucht voor de politie/kmar.<br>
      ➥ wanneer het dreigingsniveau 5 is. (Preventief fouilleren)<br>
      ➥ er een schotenmelding in de buurt is geweest.<br>
      ➥ ze je betrappen op illegale activiteiten.<br>
@@ -71,7 +71,7 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
      ➥ Als je wordt gestoken mag je niet meer RENNEN, je mag wel LOPEN! <br>
      ➥ Als er een Mes op je gericht staat en je zit in een Auto mag je doorrijden.<br>
      ➥ Als er een vuurwapen op je gericht staat dien je ten alle tijden mee te werken! Wegrennen of de desbetreffende persoon aanvallen is ten strengste verboden en           word de No Value of Life regel toegepast<br>
-     ➥ Word er geen wapen gericht op jou of je collega’s en heeft hij of zij hem niet meer in zijn hand mag je je wapen trekken, mits je niet meer in het zicht van de        overvaller of politie bent, ben je in de minderheid is een wapen trekken een NO GO! <br>
+     ➥ Word er geen wapen gericht op jou of je collega’s en heeft hij of zij hem niet meer in zijn hand mag je je wapen trekken, mits je niet meer in het zicht van de        overvaller of politie/kmar bent, ben je in de minderheid is een wapen trekken een NO GO! <br>
 
 ◦ <b>Regels ten aanzien van auto gebruik</b> <br>
      ➥ Het pitten onder de 100 KM Per/Uur is toegestaan! Remt degene die wordt achtervolgd en de politieauto of normale auto's botst ertegenaan is dit toegestaan.<br> 
