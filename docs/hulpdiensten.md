@@ -50,5 +50,3 @@
 # Regels Taxi
  ➥ Taxi mag personen weigeren als er een dreiging vormt of is voor de chauffeur van de taxi.</br>
  ➥ Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
-
-# Let op niet alle regels zullen hierboven vermeld worden!
