@@ -17,12 +17,17 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
 ◦ <b>Overvallen van burgers</b> <br>
      ➥ Het overvallen van iemand die een NON whitelisted job uitvoert is streng verboden (Kan je zien aan de Outfit!)<br> 
      ➥ Het overvallen van burgers die minder dan 1 week in de stad zijn is streng verboden! <br>
-     ➥ Na het overvallen van een burger mag je hem/haar niet vermoorden.<br>
      ➥ Wanneer je iemand uitnodigt in je huis, zijn de items die erin liggen jouw verantwoordelijkheid. Deze mogen dus gestolen worden.<br>
-     ➥ Het overvallen van burgers is maximaal voor een bedrag van €5,000.<br>
-     ➥ Het overvallen van dezelfde burger is niet toegestaan.<br>
-     ➥ Het overvallen van burgers mag altijd! Mits je je aan de boven geschreven regels houdt!  <br>
-     ➥ Het campen van een drugslocatie om vervolgens iemand te gaan overvallen is verboden.<br>
+    
+
+◦ <b>Rippen</b> <br> 
+     ➥ mensen rippen mag voor een maximaal van €5.000, 
+     ➥ na het rippen van een persoon mag je deze dan ook niet vermoorden.
+     ➥ kan een persoon het niet betalen of wil die het niet betalen mag je deze met goede Roleplay vermoorden.
+     ➥ schiet je de persoon simpel direct dood na dat hij niet kan betalen zal dit bestraft worden als RDM.
+     ➥ het campen op locaties om te rippen is niet toegestaan. Wanneer je op een locatie geript hebt mag je de aankomende 30 minuten daar niet nogmaals rippen op dezelfde locatie.
+     ➥ Wanneer je met meerdere mensen gaat rippen, mag je niet dezelfde mensen rippen. Zodra iemand is overvallen laat iedereen die persoon met rust.
+    
 
 ◦ <b>Het vermoorden van burgers</b><br>
      ➥ Het vermoorden van burgers mag, mits er wordt voldaan aan de regels van het overvallen van burgers.<br>
