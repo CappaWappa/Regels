@@ -10,6 +10,7 @@
  ➥ Het scammen van hulpdiensten als ze indienst zijn is niet toegestaan.</br>
  ➥ Het ontvoeren van Ambulance, Taxi & ANWB is NIET toegestaan.<br>
  ➥ Het ZuiderVeen staff voertuig valt buiten de roleplay en kan niet gezien worden, spreek deze persoon ook niet aan in de auto. Deze auto word als "ontzichtbaar" gezien.<br>
+ ➥ Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
 
 
 
@@ -25,6 +26,7 @@
  ➥ Het preventief fouilleren is toegestaan als er een dreigingsniveau is van 4 of hoger. </br>
  ➥ Het liegen tegen de gijzelnemers vanuit de politie is toegestaan.</br>
  ➥ Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt.</br>
+ ➥ Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
 
 # Regels Ambulance
  ➥ Het is niet toegestaan om iemand te reviven als de desbetreffende persoon…</br>
@@ -35,6 +37,7 @@
  - aangeeft dat diegene dood is door RDM, VDM, FailRP, bugs etc. Laat diegene een ticket maken.<br>
  ➥ Het samenwerken met de onderwereld is niet toegestaan, dit valt onder corruptie.<br>
  ➥ Het betaald krijgen om iemand te reviven is niet toegestaan, dit valt onder corruptie.<br>
+ ➥ Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
 
 
 # Regels Anwb
@@ -42,8 +45,10 @@
  ➥ Bij het maken van een melding moet je de locatie er bij vermelden anders word je melding niet opgenomen. </br>
  ➥ Het vdmen tegen een auto van de ANWB staat een boete op van 1500 euro, ook als je je niet gedraagd op het Hoofdbureau zal deze worden uitgeschreven.</br>
  ➥ Het afsluiten van abbonementen kan uitsluitend bij hoofd-monteur of hoger.</br>
+ ➥ Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
 
 # Regels Taxi
  ➥ Taxi mag personen weigeren als er een dreiging vormt of is voor de chauffeur van de taxi.</br>
+ ➥ Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
 
 # Let op niet alle regels zullen hierboven vermeld worden!
