@@ -17,7 +17,7 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
 ◦ <b>Overvallen van burgers</b> <br>
      ➥ Het overvallen van iemand die een NON whitelisted job uitvoert is streng verboden (Kan je zien aan de Outfit!)<br> 
      ➥ Het overvallen van burgers die minder dan 1 week in de stad zijn is streng verboden! <br>
-     ➥ Wanneer je iemand uitnodigt in je huis, zijn de items die erin liggen jouw verantwoordelijkheid. Deze mogen dus gestolen worden.<br>
+     ➥ Wanneer je iemand uitnodigt in je huis, zijn de items die erin liggen jouw verantwoordelijkheid. Deze mogen dus gestolen worden. Iemand bedreigen dat hij jouw in zijn huis binnen moet laten (door middel van wapens richten etc.) mag NIET <br>
     
 
 ◦ <b>Rippen</b> <br> 
