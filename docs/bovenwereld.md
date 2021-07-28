@@ -1,6 +1,6 @@
 # Algemene regels
 ## Lijstje
-◦ <b>VDM</b> (Vehicle Deathmatch) ➥ Het doelbewust je voertuig/luchtvaartuig/vaartuig gebruiken als wapen tegen speler/s.
+◦ <b>VDM</b> (Vehicle Deathmatch) ➥ Het doelbewust je voertuig/luchtvaartuig/vaartuig gebruiken als wapen tegen speler/s, is ten alle tijden niet toegestaan.
 
 ◦ <b>RDM</b> (Random Deathmatch) ➥ Het doden van een persoon zonder voorafgaande roleplay (zoals: een verkeersongeluk, iemand uitschelden en 1 x per ongeluk slaan zijn hier voorbeelden van) is niet toegestaan.
 
