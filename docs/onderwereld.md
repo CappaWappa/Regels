@@ -21,7 +21,7 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
     
 
 ◦ <b>Rippen</b> <br> 
-     ➥ mensen rippen mag voor een maximaal van €5.000. <br> 
+     ➥ mensen rippen mag voor een maximaal van €5.000, voor zowel zwart al wit geld. <br> 
      ➥ na het rippen van een persoon mag je deze dan ook niet vermoorden. <br>
      ➥ kan een persoon het niet betalen of wil die het niet betalen mag je deze met goede Roleplay vermoorden. <br>
      ➥ schiet je de persoon simpel direct dood na dat hij niet kan betalen zal dit bestraft worden als RDM. <br>
