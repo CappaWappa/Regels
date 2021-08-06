@@ -33,7 +33,7 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
      ➥ Het vermoorden van burgers mag, mits er wordt voldaan aan de regels van het overvallen van burgers.<br>
      ➥ Er moet worden voldaan aan een duidelijk RP Scenario. (beoordeeld door een staflid)<br> 
      ➥ Het vermoorden van hostages mag alleen op het moment dat de situatie lijkt te escaleren!<br>
-     ➥ Het gebruiken van /TH om een schotmelding te voorkomen valt onder Powergamen en word daar ook naar bestraft. <br>
+     ➥ Het misbruik maken van /th om een schotmelding te voorkomen valt onder Powergamen en word daar ook naar bestraft. <br>
 
 ◦ <b>Overval op een bank, humane labs, jacht, juwelier of winkel</b> <br>
      ➥ Max overvallers bij een grote bank, jacht of humane labs is 10.<br>
