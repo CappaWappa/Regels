@@ -78,9 +78,7 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
      ➥ Het pitten onder de 100 KM Per/Uur is toegestaan! Remt degene die wordt achtervolgd en de politieauto of normale auto's botst ertegenaan is dit toegestaan.<br> 
      ➥ Het pakken van een auto uit de garage in een achtervolging mag niet! Staat er ergens een vriend die je ophaalt is wel toegestaan! <br>
      ➥ Bij een Fatale klap of crash in een achtervolging blijf je in je auto zitten als er een Scenario uit voort kan komen! <br>
-     ➥ Auto’s/motoren mogen niet off-road, mits je auto/motor in de off-road cardealer staat.
-wanneer ze in de off-road cardealer staan, mag je met een maximum snelheid van 100 over zandpaden.
-     De donateurs G-wagon uit de donateur cardealer en 4x4 SUV’S vallen hier ook onder. <br>
+    ➥ Auto’s/motoren mogen alleen off-road op de zandpaden en met een limiet van 100km/h. Hoge auto's/Crossmotoren mogen volledig off-road met een maximimum van 100km/h.<br>
 
 ◦ <b>FAIL RP scenarios/situaties</b>     <br>
      ➥  OOC praten in een scenario is ten strengste verboden <br>
