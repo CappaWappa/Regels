@@ -15,11 +15,11 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
 
 
 ◦ <b>Communicatie afpakken</b> <br>
-     ➥ Communicatie afpakken zonder in het bezit te zijn van een wapen mag niet. (dit valt onder FailRP)
+     ➥ Communicatie afpakken zonder in het bezit te zijn van een wapen mag niet. (dit valt onder FailRP)<br>
      ➥ Wanneer je een agent ontvoerd moet je er op letten dat je zijn porto af moet pakken en weg moet gooien. anders mag de 
-   agent deze aan laten staan zodat hij een blip heeft.
+   agent deze aan laten staan zodat hij een blip heeft.<br>
      ➥ Wanneer je comunicatie is afgepakt krijg je deze pas terug als je deze daadwerkelijk van iemand krijgt.
-   of nieuwe koopt in de winkel.
+   of nieuwe koopt in de winkel.<br>
 
 
 ◦ <b>Overvallen van burgers</b> <br>
