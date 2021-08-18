@@ -14,6 +14,14 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
      ➥ Voor het ontvoeren van burgers moet er minimaal 2 politie/kmar online zijn.<br>
 
 
+◦ <b>Communicatie afpakken</b> <br>
+     ➥ Communicatie afpakken zonder in het bezit te zijn van een wapen mag niet. (dit valt onder FailRP)
+     ➥ Wanneer je een agent ontvoerd moet je er op letten dat je zijn porto af moet pakken en weg moet gooien. anders mag de 
+   agent deze aan laten staan zodat hij een blip heeft.
+     ➥ Wanneer je comunicatie is afgepakt krijg je deze pas terug als je deze daadwerkelijk van iemand krijgt.
+   of nieuwe koopt in de winkel.
+
+
 ◦ <b>Overvallen van burgers</b> <br>
      ➥ Het overvallen van iemand die een NON whitelisted job uitvoert is streng verboden (Kan je zien aan de Outfit!)<br> 
      ➥ Het overvallen van burgers die minder dan 1 week in de stad zijn is streng verboden! <br>
