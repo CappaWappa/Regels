@@ -2,7 +2,21 @@
 ## Lijstje
 ◦ <b>VDM</b> (Vehicle Deathmatch) ➥ Het doelbewust je voertuig/luchtvaartuig/vaartuig gebruiken als wapen tegen speler/s, is ten alle tijden niet toegestaan.
 
-◦ <b>RDM</b> (Random Deathmatch) ➥ Het doden van een persoon zonder voorafgaande roleplay (zoals: een verkeersongeluk, iemand uitschelden en 1 x per ongeluk slaan zijn hier voorbeelden van) is niet toegestaan.
+◦ <b>RDM</b> (Random Deathmatch) 
+➥ Het doden van een persoon zonder voorafgaande Roleplay met die persoon is niet toegestaan.<br>
+➥ Iemand vermoorden omdat hij jouw 1 keer slaat mag niet, en valt onder RDM.<br>
+➥ Wanneer je een persoon vermoord omdat hij tegen jouw aanrijd (verkeersongeluk) mag niet, en valt onder RDM.<br>
+➥ Wanneer je iemand wil schieten dien je altijd eerst op benen te schieten, wanneer de tegenpartij terug schiet mag je op de rest van het lichaam schieten.  (schiet je direct op boven lichaam is dit RDM)<br>
+➥ Wanneer je iemand uitscheld en daarna word vermoord is dit jouw eigen schuld. Dit valt niet onder RDM.<br>
+➥ Wanneer je ruzie hebt met een persoon mag je deze met een goede reden afmaken. zorg er wel voor dat je zeker weet wie je neerschiet. (id vragen)<br>
+➥ Wanneer je een gang uit gaat dagen en deze vermoorden jouw is dit jouw eigen schuld. (valt dus niet onder RDM)<br>
+➥ Iemand vermoorden om dat die teveel gezien heeft is GEEN goede reden, Het is aan jouw zelf om te zorgen dat hun niks van jouw kunnen weten.<br>
+➥ Wanneer iemand in zijn benen is geschoten mag je deze niet vermoorden. tenzij je daar een goede reden voor hebt.<br>
+➥ In benen schieten is geen RDM, Het vermoorden daarna moet een goeie reden achter zitten.<br>
+➥ Een agent vermoorden omdat hij ''Jouw wil foulleren'' is geen goede reden en valt onder RDM.<br>
+➥  Wanneer jij een agent ontvoerd, is de blip etc. jouw eigen verantwoording en hoort bij het risico om een agent te ontvoerden, hiervoor mag deze niet vermoord worden! Wel mag je deze afpakken. (kijk regel: communicatie afpakken)<br>
+➥  Een agent vermoorden met de reden om uit het MEOS gehaald te worden mag niet!<br>
+<b>Let er op dat als jij iemand vermoord met RDM, Dat jij jouw wapen moet inleveren!</b>
 
 ◦ <b>Gta Drive Style</b> ➥ Het met hoge snelheden door de stad heen rijden, stunt jumps nemen, onrealistisch offroad rijden, rammen van andere voertuigen en met hoge snelheid met een lekke band rijden is niet toegestaan. Off-road banden zijn puur cosmetisch en hebben geen effect op de weg.
 
