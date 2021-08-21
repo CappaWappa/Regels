@@ -13,7 +13,7 @@
 ➥ Iemand vermoorden om dat die teveel gezien heeft is GEEN goede reden, Het is aan jouw zelf om te zorgen dat hun niks van jouw kunnen weten.<br>
 ➥ Wanneer iemand in zijn benen is geschoten mag je deze niet vermoorden. tenzij je daar een goede reden voor hebt.<br>
 ➥ In benen schieten is geen RDM, Het vermoorden daarna moet een goeie reden achter zitten.<br>
-➥ Een agent vermoorden omdat hij ''Jouw wil foulleren'' is geen goede reden en valt onder RDM.<br>
+➥ Een agent vermoorden omdat hij ''Jouw wil fouilleren'' is geen goede reden en valt onder RDM.<br>
 ➥  Wanneer jij een agent ontvoerd, is de blip etc. jouw eigen verantwoording en hoort bij het risico om een agent te ontvoerden, hiervoor mag deze niet vermoord worden! Wel mag je deze afpakken. (kijk regel: communicatie afpakken)<br>
 ➥  Een agent vermoorden met de reden om uit het MEOS gehaald te worden mag niet!<br>
 <b>Let er op dat als jij iemand vermoord met RDM, Dat jij jouw wapen moet inleveren!</b>
