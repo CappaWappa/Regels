@@ -31,6 +31,7 @@
 
 ➥ Enkele Scenario's waarin dit kan voortkomen.<br>
    - Wapen is staan blijven en luisteren, doe je dit niet : No Value of Life</br>
+   - Staat er een wapen op je gericht, dan mag je ook niet in porto praten (ook niet 1 of meerdere keren klikken op je porto)!
    - Sta je boven op de dam blijf dan staan en spring er niet van af spring je er wel van af : No Value of Life</br>
    - Word er iets aan je gevraagt terwijl je onderschot word gehouden werk dan gelijk mee en ga niet treuzelen : No Value of Life</br>
    - Rijd de auto boven de 80 KM/PU en je springt eruit valt dit onder : No Value of Life </br>
