@@ -42,6 +42,7 @@
 ◦ <b>Powergamen</b> ➥ Een binnen de game verkregen functie misbruiken en daar jou voordeel uithalen.
 
 ◦ <b>Bugs</b> ➥ Het misbruiken van bugs en het niet melden hiervan is niet toegestaan. Hierop staat een ban van minimaal een maand.
+➥Het gebruiken van de "One Punch Kill" is niet toegestaan, dit valt onder bugg-abuse.<br>
 
 ◦ <b>Cheats</b> ➥ Het gebruik van hack/mods is niet toegestaan. Hier staat een <b>permanente</b> ban op.
 
