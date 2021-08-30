@@ -8,6 +8,7 @@
 ◦ FailRP, RDM, VDM en dat soort zaken On-Stream (ook off-stream natuurlijk) wordt direct bestraft.<br>
 ◦ De naam ZuiderVeen moet in de titel van de stream staan zodat het ook door ons gevonden kan worden.<br>
 ◦ Het is <b>NIET</b> toegestaan om drugs locaties vast te leggen op stream. Doe je dit wel zal er een ban van één week worden uitgedeeld.<br>
+◦ Het is <b>NIET</b> toegestaan om kill/rdm montages te promoten.<br>
 
 <b>◦ Streamsniping </b>
  ➥ Streamsnipen is ten strengste verboden. Ga je spelers in game opzoeken aan de hand van iemand zijn/haar stream, of informatie gebruiken die jij uit zijn/haar stream haalt, zal dit bestraft worden met een ban van minimaal 3 dagen. 
