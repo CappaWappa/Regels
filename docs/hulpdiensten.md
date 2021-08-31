@@ -26,7 +26,7 @@
  ➥ Het brake checken (het remmen voor een auto die achter je zit) is toegestaan. </br>
  ➥ Het preventief fouilleren is toegestaan als er een dreigingsniveau is van 4 of hoger. </br>
  ➥ Het liegen tegen de gijzelnemers vanuit de politie is toegestaan.</br>
- ➥ Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt.</br>
+ ➥ Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt en/of in een gepanserd voertuig zit.</br>
  ➥ Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
 
 # Regels Ambulance
