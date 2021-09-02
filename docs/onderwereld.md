@@ -44,9 +44,9 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
      ➥ Het misbruik maken van /th om een schotmelding te voorkomen valt onder Powergamen en word daar ook naar bestraft. <br>
 
 ◦ <b>Overval op een bank, humane labs, jacht, juwelier of winkel</b> <br>
-     ➥ Max overvallers bij een grote bank, jacht of humane labs is 10.<br>
-     ➥ Max overvallers bij een kleine bank of winkel is 5.<br>
-     ➥ Max overvallers bij een Juwelier is 8. <br>
+     ➥ Max overvallers bij een grote bank, jacht of humane labs is 13.<br>
+     ➥ Max overvallers bij een kleine bank of winkel is 7.<br>
+     ➥ Max overvallers bij een Juwelier is 10. <br>
      ➥ Max hostages bij een kleine bank, juwelier of winkel is 5. <br>
      ➥ Max hostages bij een grote bank, jacht of humane labs is 10.<br>
      ➥ De onderhandelaar mag niet worden gegijzeld of beschoten worden in onderhandeling.<br>
