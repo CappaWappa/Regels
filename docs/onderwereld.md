@@ -92,6 +92,7 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
      ➥  OOC praten in een scenario is ten strengste verboden <br>
      ➥  Iemand doodschieten zonder RP hierbij zal het gebruikte wapen worden ingenomen.<br>
      ➥  Opstaan wanneer je in je benen bent geschoten is tegen de regels, je mag dat gehele scenario niet meer mee doen. tot je word behandeld door een ambulance. <br>
+     ➥  Praten terwijl er tape op je mond is geplakt, (dit kan je er zelf in geen enkele situatie afhalen). <br>
 
 ◦ <b>Communicatie regels</b><br>
      ➥ Worden je Communicatie middelen afgepakt dien je jezelf te muten in discord hierbij zal ook je bodycam moeten worden afgesloten.<br>
