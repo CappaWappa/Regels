@@ -12,6 +12,7 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
 ◦ <b>Ontvoeren</b> <br>
      ➥ Het ontvoeren van burgers is toegestaan zolang er een goeie RP, Of gedachte achter zit die kan worden uitgelegd door middel van een clip. <br>
      ➥ Voor het ontvoeren van burgers moet er minimaal 2 politie/kmar online zijn.<br>
+     ➥ Mensen die bezig zijn met een non-whitelisted job, mogen niet ontvoerd woorden. <br>
 
 
 ◦ <b>Communicatie afpakken</b> <br>
