@@ -89,7 +89,6 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
      ➥ Bij een Fatale klap of crash in een achtervolging blijf je in je auto zitten als er een Scenario uit voort kan komen! <br>
      ➥ Alle voertuigen mogen op zandpaden rijden zonder een limiet, Voertuigen in de Off-Road cardealer mogen volledig off-road met een limiet van 100* km/h.
 Donateur G-Wagon / Luma vallen ook onder Off-Road voertuigen. <br>
- <br>
      ➥ Wanneer je een of meerdere lekke banden hebt, mag je niet harder dan 130km/h. <br>
      
 ◦ <b>FAIL RP scenarios/situaties</b>     <br>
