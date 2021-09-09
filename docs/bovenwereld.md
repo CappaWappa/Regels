@@ -57,7 +57,7 @@
 ◦ <b>Microfoon</b> ➥ Je moet een goed werkende microfoon hebben. Als je dit niet hebt is het niet toegestaan om in de stad te komen.
 
 ◦ <b>Kleding</b> ➥ Het dragen van overheidskleding of staff kleding is niet toegestaan. Zorg er voor dat je outfit klopt en geen gaten in je kleding zit. Je mag alleen een wapenholster omdoen als je een wapen hebt. Kogelwerende vesten zijn verboden en enkel gezichtsbedekkende kleding dragen tijdens illegale dingen. Als je een van deze punten overtreed.
-
+➥ Holsters, Medical Backs, Bodyvesten en Helmen (excl. Motorhelmen) vallen onder "Politie kleding", en is niet toegestaan om te dragen. <br>
 ◦ <b>Aanrijding</b> ➥ Bij een aanrijding dien je de roleplay aan te gaan en af te maken, het wegrijden bij een aanrijding zonder roleplay word gezien als fail roleplay.
 
 ◦ <b>Chat</b> ➥ Het is niet toegestaan om voertuigen in Twitter en/of nieuws te adverteren. Dit mag alleen in het Autoscout-24 in discord.
