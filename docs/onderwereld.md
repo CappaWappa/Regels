@@ -116,5 +116,5 @@ Donateur G-Wagon / Luma vallen ook onder Off-Road voertuigen. <br>
      ➥ Tijdens de gangwar zijn de volgende safe-zones : BPG, Ziekenhuis, Anwb Hoofdkantoor. het campen van deze plekken is ook niet toegestaan.<br>
      
 ◦ <b>Gang regels</b><br>
-     ➥ In een gang mogen maximaal 15 man zitten.<br>
+     ➥ In een gang mogen maximaal 20 man zitten.<br>
      ➥ Het gebruik maken van je + menu (het boeien van mensen / escorteren / fouilleren) zonder het bijdragen van een wapen is niet toegestaan en zal worden bestraft onder het kopje ''f6 abuse''. dit zal resulteren in een gang waarschuwing voor de hele gang.<br>
