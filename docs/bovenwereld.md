@@ -26,7 +26,16 @@
 
 ◦ <b>Metagamen</b> ➥ Het buiten game verkregen informatie (inclusief discord) ingame gebruiken is niet toegestaan dus ook geen "bodycam" video's. 
 
-◦ <b>Powergamen</b> ➥ Een binnen de game verkregen functie misbruiken en daar jou voordeel uithalen.
+◦ <b>Powergamen</b> ➥ Een binnen de game verkregen functie misbruiken en daar jou voordeel uithalen.<br>
+Het is niet toegestaan om tijdens of vlak na een scenario je wapen of spullen op te bergen in je appartement. Zodra jij bent ontkomen van de politie of mensen die je achterna zaten, moet er minimaal 10 minuten tussen dit scenario en het opbergen van de spullen zitten. Dit wordt toegepast in de volgende situaties:<br>
+➥ De politie ziet jou bij een drugslocatie staan en zet vanaf daar de achtervolging in,<br>
+➥ De politie is bezig met het doorzoeken van jouw spullen maar jij gaat op de vlucht met deze spullen en raakt hen kwijt,<br>
+➥ Jij wordt overvallen maar niet alles wordt gestolen, en je raakt de achtervolgers kwijt.<br>
+
+Zodra jij gebruik hebt gemaakt van een item of wapen, moet er ook minimaal 10 minuten tussen het scenario en het opbergen van dit item zitten. Onder het gebruik maken van je wapen wordt het volgende geteld, en moet de 10 minuten regel dus worden toegepast:<br>
+➥ Je schiet op iemand met het wapen,<br>
+➥ Je richt alleen het wapen,<br>
+➥ Je koopt het wapen.<br>
 
 ◦ <b>Bugs</b> ➥ Het misbruiken van bugs en het niet melden hiervan is niet toegestaan. Hierop staat een ban van minimaal een maand.
 ➥Het gebruiken van de "One Punch Kill" is niet toegestaan, dit valt onder bugg-abuse.<br>
