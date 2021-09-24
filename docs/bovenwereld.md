@@ -27,6 +27,7 @@
 ◦ <b>Metagamen</b> ➥ Het buiten game verkregen informatie (inclusief discord) ingame gebruiken is niet toegestaan dus ook geen "bodycam" video's. 
 
 ◦ <b>Powergamen</b> ➥ Een binnen de game verkregen functie misbruiken en daar jou voordeel uithalen.<br>
+
 Het is niet toegestaan om tijdens of vlak na een scenario je wapen of spullen op te bergen in je appartement. Zodra jij bent ontkomen van de politie of mensen die je achterna zaten, moet er minimaal 10 minuten tussen dit scenario en het opbergen van de spullen zitten. Dit wordt toegepast in de volgende situaties:<br>
 ➥ De politie ziet jou bij een drugslocatie staan en zet vanaf daar de achtervolging in,<br>
 ➥ De politie is bezig met het doorzoeken van jouw spullen maar jij gaat op de vlucht met deze spullen en raakt hen kwijt,<br>
