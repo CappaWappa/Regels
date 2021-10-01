@@ -36,7 +36,7 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
      ➥ schiet je de persoon simpel direct dood na dat hij niet kan betalen zal dit bestraft worden als RDM. <br>
      ➥ het campen op locaties om te rippen is niet toegestaan. Wanneer je op een locatie geript hebt mag je de aankomende 30 minuten daar niet nogmaals rippen op dezelfde locatie. <br>
      ➥ Wanneer je met meerdere mensen gaat rippen, mag je niet dezelfde mensen rippen. Zodra iemand is overvallen laat iedereen die persoon met rust. <br>
-    
+     ➥ je mag alleen rippen uit voertuigen (max 50 items) als je die persoon bedreigt met een wapen!<br>
 
 ◦ <b>Het vermoorden van burgers</b><br>
      ➥ Het vermoorden van burgers mag, mits er wordt voldaan aan de regels van het overvallen van burgers.<br>
