@@ -27,7 +27,7 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
      ➥ Het overvallen van iemand die een NON whitelisted job uitvoert is streng verboden (Kan je zien aan de Outfit!)<br> 
      ➥ Het overvallen van burgers die minder dan 1 week in de stad zijn is streng verboden! <br>
      ➥ Wanneer je iemand uitnodigt in je huis, zijn de items die erin liggen jouw verantwoordelijkheid. Deze mogen dus gestolen worden. Iemand bedreigen dat hij jouw in zijn huis binnen moet laten (door middel van wapens richten etc.) mag NIET <br>
-    
+     ➥ Spelers overvallen mag pas vanaf 2 Politie/Kmar.<br>
 
 ◦ <b>Rippen</b> <br> 
      ➥ mensen rippen mag voor een maximaal van €5.000, voor zowel zwart al wit geld. <br> 
@@ -43,6 +43,7 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
      ➥ Er moet worden voldaan aan een duidelijk RP Scenario. (beoordeeld door een staflid)<br> 
      ➥ Het vermoorden van hostages mag alleen op het moment dat de situatie lijkt te escaleren!<br>
      ➥ Het misbruik maken van /th om een schotmelding te voorkomen valt onder Powergamen en word daar ook naar bestraft. <br>
+     ➥ Wil je een hele gang aanpakken op hun fouten, mag je maximaal 3 mensen van die gang vermoorden.<br>
 
 ◦ <b>Overval op een bank, humane labs, jacht, juwelier of winkel</b> <br>
      ➥ Max overvallers bij een grote bank, jacht of humane labs is 13.<br>
