@@ -43,7 +43,6 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
      ➥ Er moet worden voldaan aan een duidelijk RP Scenario. (beoordeeld door een staflid)<br> 
      ➥ Het vermoorden van hostages mag alleen op het moment dat de situatie lijkt te escaleren!<br>
      ➥ Het misbruik maken van /th om een schotmelding te voorkomen valt onder Powergamen en word daar ook naar bestraft. <br>
-     ➥ Wil je een hele gang aanpakken op hun fouten, mag je maximaal 3 mensen van die gang vermoorden.<br>
 
 ◦ <b>Overval op een bank, humane labs, jacht, juwelier of winkel</b> <br>
      ➥ Max overvallers bij een grote bank, jacht of humane labs is 13.<br>
