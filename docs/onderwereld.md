@@ -1,6 +1,7 @@
 # Criminele circuit
 
-◦ <b>Scammen</b> ➥ Het is niet toegestaan om te scammen met voertuigen of mensen te scammen die bezig zijn met een (non)whitelisted job. Mits je wel scamt bij bovenwereld activiteiten zal hier een limiet gelden van €30.000. Als je onderwereld activiteiten uitvoert mag je wel gescammed worden. Denk aan drugs, locaties en wapens. Hier zit geen limiet op.
+◦ <b>Scammen</b> 
+➥ Het is niet toegestaan om te scammen met voertuigen of mensen te scammen die bezig zijn met een (non)whitelisted job. Mits je wel scamt bij bovenwereld activiteiten zal hier een limiet gelden van €30.000. Als je onderwereld activiteiten uitvoert mag je wel gescammed worden. Denk aan drugs, locaties en wapens. Hier zit geen limiet op.
 
 Het opwachten en scammen van nieuwe spelers bij de spawn is ten strengste verboden, word dit wel gedaan zal er een ban van 1 week opstaan met een karakter reset.
 
