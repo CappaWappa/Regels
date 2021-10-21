@@ -41,7 +41,6 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
      ➥ je mag alleen rippen uit voertuigen (max 50 items) als je die persoon bedreigt met een wapen!<br>
 
 ◦ <b>Het vermoorden van burgers</b><br>
-     ➥ Het vermoorden van burgers mag, mits er wordt voldaan aan de regels van het overvallen van burgers.<br>
      ➥ Er moet worden voldaan aan een duidelijk RP Scenario. (beoordeeld door een staflid)<br> 
      ➥ Het vermoorden van hostages mag alleen op het moment dat de situatie lijkt te escaleren!<br>
      ➥ Het misbruik maken van /th om een schotmelding te voorkomen valt onder Powergamen en word daar ook naar bestraft. <br>
