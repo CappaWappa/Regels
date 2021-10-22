@@ -57,6 +57,7 @@ Categorie 3 (Zware vuurwapens):
 -	Sniper rifle (Dienst Speciale Interventies)
 
 
+
 # Regels Ambulance
  ➥ Het is niet toegestaan om iemand te reviven als de desbetreffende persoon…</br>
  - niet meer aanspreekbaar is<br>
