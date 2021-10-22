@@ -37,12 +37,14 @@ Catergorie 1 (Slag, stoot en steek wapens):
 -	Wapenstok (KMAR/Politie)
 -	Switchblade
 -	Machete 
+
 Categorie 2 (Lichte vuurwapens):
 -	Taser (KMAR/Politie)
 -	Walter P99 (KMAR/Politie)
 -	Glock G17 (KMAR/Politie)
 -	Baretta
 -	MP5 (KMAR/Dienst Speciale Interventies)
+
 Categorie 3 (Zware vuurwapens):
 -	Desert Eagle
 -	Shotgun
