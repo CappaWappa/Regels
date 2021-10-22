@@ -28,6 +28,32 @@
  ➥ Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt en/of in een gepanserd voertuig zit.</br>
  ➥ Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
  ➥ Je mag alleen zware wapens gebruiken als je indienst bent als DSI of HRB anders is dit niet toegestaan, met uitzondering van de reguliere eenheden van de KMAR met MP5.</br>
+ 
+ Wapens per categorie:	
+
+Catergorie 1 (Slag, stoot en steek wapens):
+-	Knuppel
+-	Knuckle duster
+-	Wapenstok (KMAR/Politie)
+-	Switchblade
+-	Machete 
+Categorie 2 (Lichte vuurwapens):
+-	Taser (KMAR/Politie)
+-	Walter P99 (KMAR/Politie)
+-	Glock G17 (KMAR/Politie)
+-	Baretta
+-	MP5 (KMAR/Dienst Speciale Interventies)
+Categorie 3 (Zware vuurwapens):
+-	Desert Eagle
+-	Shotgun
+-	Uzi
+-	P90
+-	Mini-AK
+-	Ak-47
+-	SIG (Dienst Speciale Interventies)
+-	G28 (Dienst Speciale Interventies)
+-	Sniper rifle (Dienst Speciale Interventies)
+
 
 # Regels Ambulance
  ➥ Het is niet toegestaan om iemand te reviven als de desbetreffende persoon…</br>
