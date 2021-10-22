@@ -18,7 +18,6 @@
 
  ➥ Bij een winkel overval bepaald de OvD wat de inzet qua politie/kmar zal zijn, wanneer geen OvD aanwezig is zal de hoogste aanwezig binnen het korps dit op zich nemen. 
  let er op dat dit wel realistisch gebeurt. (voorbeeld, geen 5 DSI bij en kleine winkel overval.) </br>
- ➥ Je mag alleen zware wapens gebruiken als je indienst bent als DSI of BE anders is dit niet toegestaan.<br>
  ➥ Je mag je collega's niet reviven als zij zijn neergeschoten ook niet als zij een kogelwerend vest dragen. Als zij zijn neergestoken terwijl zij een steekvest dragen mag je ze wel reviven. Doe dit wel na het scenario. </br>
  ➥ Het gebruik van vuurwapens door de politie is in de volgende scenarios toegestaan: de verdachte vuurwapen gevaarlijk of mogelijk gevaarlijk is, een collega of burger in gevaar is, </br>
  ➥ Het gebruik van vuurwapens in een achtervoling door de politie is toegestaan mits er op de banden word geschoten anders niet! pas als de auto stilstaat mogen er wapens op de verdachte gericht worden.</br>
