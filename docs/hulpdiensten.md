@@ -27,6 +27,7 @@
  ➥ Het liegen tegen de gijzelnemers vanuit de politie is toegestaan.</br>
  ➥ Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt en/of in een gepanserd voertuig zit.</br>
  ➥ Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
+ ➥ Je mag alleen zware wapens gebruiken als je indienst bent als DSI of HRB anders is dit niet toegestaan, met uitzondering van de MP5 van de KMar.</br>
 
 # Regels Ambulance
  ➥ Het is niet toegestaan om iemand te reviven als de desbetreffende persoon…</br>
