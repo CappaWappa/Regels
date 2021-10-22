@@ -26,7 +26,7 @@
  ➥ Het preventief fouilleren is toegestaan als er een dreigingsniveau is van 4 of hoger. </br>
  ➥ Het liegen tegen de gijzelnemers vanuit de politie is toegestaan.</br>
  ➥ Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt en/of in een gepanserd voertuig zit.</br>
- ➥ Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
+ ➥ Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.</br>
  ➥ Je mag alleen zware wapens gebruiken als je indienst bent als DSI of HRB anders is dit niet toegestaan, met uitzondering van de reguliere eenheden van de KMAR met MP5.</br>
  
  Wapens per categorie:	
@@ -52,7 +52,7 @@ Categorie 3 (Zware vuurwapens):
 -	P90
 -	Mini-AK
 -	Ak-47
--	SIG (Dienst Speciale Interventies)
+-	SIG (Dienst Speciale Interventies / HRB)
 -	G28 (Dienst Speciale Interventies)
 -	Sniper rifle (Dienst Speciale Interventies)
 
