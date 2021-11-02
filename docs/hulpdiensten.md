@@ -14,7 +14,7 @@
 
 
 
-# Regels Politie
+# Regels Politie / KMar
 
  ➥ Bij een winkel overval bepaald de OvD wat de inzet qua politie/kmar zal zijn, wanneer geen OvD aanwezig is zal de hoogste aanwezig binnen het korps dit op zich nemen. 
  let er op dat dit wel realistisch gebeurt. (voorbeeld, geen 5 DSI bij en kleine winkel overval.) </br>
@@ -28,6 +28,7 @@
  ➥ Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt en/of in een gepanserd voertuig zit.</br>
  ➥ Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.</br>
  ➥ Je mag alleen zware wapens gebruiken als je indienst bent als DSI of HRB anders is dit niet toegestaan, met uitzondering van de reguliere eenheden van de KMAR met MP5.</br>
+ 
  
  Wapens per categorie:	
 
