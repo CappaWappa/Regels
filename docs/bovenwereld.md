@@ -63,7 +63,6 @@ Zodra jij gebruik hebt gemaakt van een item of wapen, moet er ook minimaal 10 mi
 
 Je krijgt <b>geen</b> refund wanneer:<br>
 - Je refund minder dan 10k waard is.<br>
-- Er minder dan 50 items uit je kofferbak is gestolen.<br>
 
 ◦ <b>IRL geld</b> ➥ Het is in geen enkele wijze toegestaan om diensten/spullen te verkopen voor IRL geld hier staat een permanente ban op.
 
