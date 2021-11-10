@@ -39,6 +39,19 @@ Nieuwe spelers die de onderwereld induiken worden niet meer geacht als nieuwe sp
      ➥ het campen op locaties om te rippen is niet toegestaan. Wanneer je op een locatie geript hebt mag je de aankomende 30 minuten daar niet nogmaals rippen op dezelfde locatie. <br>
      ➥ Wanneer je met meerdere mensen gaat rippen, mag je niet dezelfde mensen rippen. Zodra iemand is overvallen laat iedereen die persoon met rust. <br>
      ➥ je mag alleen rippen uit voertuigen (max 50 items) als je die persoon bedreigt met een wapen!<br>
+     ➥ Het rippen/overvallen van spelers voor hun wapens is toegestaan. Je moet hiervoor wel je eigen wapen eerst richten en je moet in het bezit zijn van een groter wapen dan         de tegenstander
+
+De lijst gaat als volgt:</br>
+Knuppel > Knuckle duster > Stiletto > Machete > Beretta > Pistol50 > Uzi > Shotgun > P90 > Compact Rifle > Assault Rifle.</br>
+
+Je moet dus telkens een slag groter hebben wil je een wapen van iemand kunnen rippen.</br>
+
+Regels omtrent het afnemen: </br>
+1. Je mag geen locaties campen bij huizen, ganghuizen of drugs locaties om wapens van spelers af te nemen.</br>
+2.  Het wapen moet fysiek gezien zijn ingame (twitter media staat hier los van) wil je het kunnen afnemen. Dit moet geclipt worden ivm staff er naar kan vragen met eventuele staffzaken.</br>
+3. Mits je iemand wou overvallen waarvan het wapen groter was mag die gene jou niet terug overvallen in het eerst volgende halfuur</br>
+4. Je mag als officiele gang geen wapen afnemen als je deze aantreft bij het fouilleren via f6 zonder dat hij deze eerst zichtbaar heeft laten zien.</br>
+
 
 ◦ <b>Het vermoorden van burgers</b><br>
      ➥ Er moet worden voldaan aan een duidelijk RP Scenario. (beoordeeld door een staflid)<br> 
