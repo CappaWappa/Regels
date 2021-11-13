@@ -4,7 +4,7 @@
  ➥ Het stelen van overheidsvoertuigen is niet toegestaan. Hieronder vallen de voertuigen van de Politie, Ambulance, ANWB, Rijkswaterstaat en Taxi.</br>
  ➥ op het moment van het uitvoeren van een overheidsbaan MOET je gebruik maken van de porto dit om de roleplay te verbeteren.</br>
  ➥ Het is ten alle tijden niet toegestaan om corrupt te zijn. Als je dit wel doet ben je per direct ontslagen.</br>
- ➥ Het oproepen van collega's via discord omdat er bijvoorbeeld een overval is valt ondet "Metagamen".</br>
+ ➥ Het oproepen van collega's via discord omdat er bijvoorbeeld een overval is valt onder "Metagamen".</br>
  ➥ Het in dienst gaan zonder de goede dienst kleding is ten strengste verboden.</br>
  ➥ Het is niet toegestaan om als hulpdienst criminele activiteiten uit te voeren, zowel in als uit dienst niet.</br>
  ➥ Het scammen van hulpdiensten als ze indienst zijn is niet toegestaan.</br>
