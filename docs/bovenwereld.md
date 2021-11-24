@@ -40,6 +40,7 @@ Zodra jij gebruik hebt gemaakt van een item of wapen, moet er ook minimaal 10 mi
 
 ◦ <b>Bugs</b> ➥ Het misbruiken van bugs en het niet melden hiervan is niet toegestaan. Hierop staat een ban van minimaal een maand.
 ➥Het gebruiken van de "One Punch Kill" is niet toegestaan, dit valt onder bugg-abuse.<br>
+➥Het speedfarmen bij kip en andere verwerkingsmethoden is niet toegestaan en valt onder bugg-abuse.<br>
 
 ◦ <b>Cheats</b> ➥ Het gebruik van hack/mods is niet toegestaan. Hier staat een <b>permanente</b> ban op.
 
