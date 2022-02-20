@@ -131,3 +131,10 @@ Donateur G-Wagon / Luma vallen ook onder Off-Road voertuigen. <br>
 ◦ <b>Gang regels</b><br>
      ➥ In een gang mogen maximaal 20 man zitten.<br>
      ➥ Het gebruik maken van je + menu (het boeien van mensen / escorteren / fouilleren) zonder het bijdragen van een wapen is niet toegestaan en zal worden bestraft onder het kopje ''f6 abuse''. dit zal resulteren in een gang waarschuwing voor de hele gang.<br>
+     
+◦ <b>Onofficiele / Officiele War</b><br>
+    ➥ Wanneer je dood gaat in een onofficiële of officiële gang war mag je op geen enkel moment meer deelnemen aan dezelfde gangwar. Doe je dit wel, negeer je de new life rule.
+    ➥ Mocht een stafflid in kwestie bepalen dat de kill ongeldig verklaard wordt, betekent dit dus dat je wel mag deelnemen aan de gangwar die gaande is. (edited)
+17 February 2022
+
+    
